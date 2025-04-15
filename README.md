@@ -4,7 +4,7 @@
 
 ## Nome do projeto
 
-**Agricultura Digital – Fase 2**
+**Modelagem de dados com sensores para agricultura**
 
 ## Nome do grupo
 
