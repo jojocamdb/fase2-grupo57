@@ -1,6 +1,6 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
-<img src="https://www.fiap.com.br/assets/imgs/favicons/favicon-196x196.png" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" width="100"/>
 
 ## Nome do projeto
 
